@@ -19,6 +19,8 @@ Tech stack used
 - TAILWIND
 - AXIOS
 - SASS
+- SCSS
+- BCRYPTJS
 
 __________
 Download [Node.js](https://nodejs.org/en/download/).
